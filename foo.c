@@ -13,6 +13,6 @@ int main()
 
 // definition of foo() function
 void foo() {
-printf("foo called");
+printf("Kill the Line call it Deadline");
 }
 
