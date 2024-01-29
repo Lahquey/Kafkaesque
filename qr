@@ -1,0 +1,5 @@
+:!qrencode -t ANSIUTF8 "Your text here"
+:!qrencode -t ANSIUTF8 "Your text here"
+:!qrencode -t ANSIUTF8 "Your text here"
+:!qrencode -t ANSIUTF8 "Your text here"
+
